@@ -33,7 +33,7 @@ function comparar(arreglo: number[], i: number, j: number): number {
     let comparacion : number;
     if (arreglo[i] === arreglo[j]){
         comparacion = 0;
-    } else if (arreglo[i] > arreglo[j]){
+    } else if (arreglo[i] > arreglo[j]){ //al definir arreglo[i] como mayor, la consola devuelve los valores en orden decreciente
         comparacion = -1;
     } else {
         comparacion = 1;
