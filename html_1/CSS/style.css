@@ -1,0 +1,23 @@
+/* selector de tipo */
+p {
+    color: red;
+    font-size: 20px;
+}
+
+/* selector de clase */
+.colorVerde{
+    color: green;
+}
+
+/*selector de id - se expresa con # 
+se usa para alterar solo un elemento*/
+#especial{
+    color: blue;
+}
+
+/* puedo cubrir el background con una img
+para lo que uso background-image y abro la 
+carpeta externa usando ".."*/
+body{
+    background-color: pink;
+}

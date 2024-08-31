@@ -1,0 +1,27 @@
+body{
+    display: flex;
+    flex-direction: row;
+}
+div.bloque1 {
+    color: greenyellow;
+    border-color: greenyellow ;
+    width: 100px;
+    border-style: solid;
+    background-color: greenyellow;
+    display: flex;
+    flex-direction: row;
+}
+div.bloque2 {
+    border: 100px solid gray;
+    display: flex;
+    flex-direction: row;
+    align-items: end;
+    width: 150px;
+    
+}
+div.bloque3 {
+    border: 100px solid black;
+    display: flex;
+    flex-direction: column;
+    width: 100px;
+}

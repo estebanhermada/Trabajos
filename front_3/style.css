@@ -1,0 +1,32 @@
+.h1{
+    font-family: fantasy; 
+    font-size: 250%;
+    text-align: justify;
+    background-color: chocolate;
+}
+
+ul>li{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    font-style: italic;
+    color: red;
+}
+
+.hover:hover{
+    color: blue;
+    background-color: aquamarine;
+}
+
+.visited:visited{
+    color: red;
+}
+
+/*li{
+    color: red;
+    font-family: sans-serif;
+}*/
+
+p{
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
