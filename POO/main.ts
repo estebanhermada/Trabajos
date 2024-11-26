@@ -16,8 +16,9 @@ console.log("se agregaron los siguientes vehiculos:", vehiculos);
 
 
 registro.darDeBajaVehiculo("ASD678")
+console.log("Se dio de baja un vehiculo", vehiculos);
+
 
 registro.modificarVehiculo("Titanium", "Ford", "Focus", 2021, "FGH578");
-
 console.log("Registro actual de automotores:", vehiculos);
 
